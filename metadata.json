@@ -1,0 +1,8 @@
+{
+  "name": "Cards & Gifts Retail POS",
+  "description": "Professional Point of Sale system for small retail stores, cards & gifts shops with barcode scanning, inventory, loyalty points, 50% off quick keys, receipt printing, and daily Z-reports.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="100" fill="#0f172a"/>
+  <rect x="64" y="64" width="384" height="384" rx="60" fill="#f59e0b"/>
+  <!-- Gift Ribbon & Card Icon -->
+  <path d="M120 220h272v180a20 20 0 0 1-20 20H140a20 20 0 0 1-20-20V220z" fill="#0f172a"/>
+  <path d="M100 160h312a10 10 0 0 1 10 10v40a10 10 0 0 1-10 10H100a10 10 0 0 1-10-10v-40a10 10 0 0 1 10-10z" fill="#1e293b"/>
+  <!-- Vertical Ribbon -->
+  <rect x="236" y="160" width="40" height="260" fill="#f59e0b"/>
+  <!-- Bow -->
+  <path d="M210 160c-30-50-90-50-90 0 0 30 50 40 90 0z" fill="#f59e0b"/>
+  <path d="M302 160c30-50 90-50 90 0 0 30-50 40-90 0z" fill="#f59e0b"/>
+  <!-- 50% discount star -->
+  <circle cx="390" cy="120" r="50" fill="#e11d48"/>
+  <text x="390" y="128" font-family="sans-serif" font-size="28" font-weight="900" fill="#ffffff" text-anchor="middle">50%</text>
+</svg>
